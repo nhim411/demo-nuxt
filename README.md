@@ -1,7 +1,6 @@
 # demo-nuxt
 
 ## Demo
-https://demo-nuxt-nhim411.vercel.app/
 Demo link: [https://demo-nuxt-nhim411.vercel.app/](https://demo-nuxt-nhim411.vercel.app/).
 ## Build Setup
 
